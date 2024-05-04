@@ -1,4 +1,5 @@
 //hacker rank java certification problem solution 
+//que2
 import java.io.*;
 import java.util.*;
 import java.text.*;
